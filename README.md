@@ -50,7 +50,12 @@
 </div>
 
 <div align="center">
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=ADeRoy&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=ADeRoy&hide_border=true&date_format=%5BY.%5Dn.j&locale=zh" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <!-- 提交热力图；原 activity-graph.vercel.app 已停止免费服务（返回 402），改用 ghchart -->
+  <img width="94%" src="https://ghchart.rshah.org/0078e7/ADeRoy" alt="Contribution Chart" />
 </div>
 
 ---
