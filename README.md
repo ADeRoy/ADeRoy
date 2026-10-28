@@ -90,17 +90,18 @@
 
 <p>
   <a href="https://github.com/ADeRoy"><img src="https://img.shields.io/badge/GitHub-ADeRoy-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto:2542639616@qq.com"><img src="https://img.shields.io/badge/Email-联系我-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="./assets/wechat.jpg" target="_blank"><img src="https://img.shields.io/badge/微信-联系我-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"></a>
 </p>
 
 <div align="center">
-  <sub>👇 觉得有意思的话，点个 Follow，我们下次再见。</sub>
+  <sub>👇 点「微信」看二维码，扫码加我；觉得有意思的话，顺手点个 Follow。</sub>
 </div>
 
 <!--
 图片清单（都放在 assets/ 下）：
 1. banner.png  —— 顶部横幅（宽 1200 左右），加好图后放开第 3 行的注释即可
-2. donate.jpg  —— 微信赞赏码
-3. alipay.jpg  —— 支付宝赞赏码
+2. wechat.jpg  —— 微信二维码（「找到我」按钮跳转到这里）
+3. donate.jpg  —— 微信赞赏码
+4. alipay.jpg  —— 支付宝赞赏码
 也可以直接改成你自己的图床 URL。
 -->
