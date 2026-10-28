@@ -85,7 +85,7 @@
 
 <p>
   <a href="https://github.com/ADeRoy"><img src="https://img.shields.io/badge/GitHub-ADeRoy-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto:[your-email@example.com]"><img src="https://img.shields.io/badge/Email-联系我-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:2542639616@qq.com"><img src="https://img.shields.io/badge/Email-联系我-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <div align="center">
